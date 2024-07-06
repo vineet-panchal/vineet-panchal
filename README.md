@@ -28,7 +28,7 @@ I’m Vineet Panchal, an undergraduate computer science student at Toronto Metro
 
 ## 🛠 Skills
 #### Languages: 
-JavaScript, Java, Python, HTML/CSS, C++, C#, SQL, Typescript, ARC Assembly
+JavaScript, Java, Python, HTML/CSS, C++, C#, SQL, Typescript, ARC Assembly, R
 #### Tools & Technologies: 
 Git/Github, Tailwind, Bootstrap, Node, React, MongoDB, MySQL, Pygame
 #### Certifications:
