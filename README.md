@@ -19,6 +19,17 @@ Here are some ideas to get you started:
 
 I’m Vineet Panchal, an undergraduate computer science student at Toronto Metropolitan University. I'm interested in programming, and creating web applications and programs. I am currently seeking for 2024 spring internship opportunities. Feel free to reach out to me!
 
+```yaml
+education: Toronto Metropolitan University
+major: Computer Science
+current_learning: ["Bash, C, C++, data structures, and Lisp"]
+
+technical_experience: 
+  [
+  ]
+
+```
+
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on a web app to check the weather in JavaScript.
 
