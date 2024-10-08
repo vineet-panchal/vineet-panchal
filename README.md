@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I’m Vineet Panchal, an undergraduate computer science student at Toronto Metropolitan University. I'm interested in programming, and creating web applications and programs. I am currently seeking for 2024 spring internship opportunities. Feel free to reach out to me!
+My name is Vineet Panchal. I am a second-year computer science student at Toronto Metropolitan University. I am passionate about building innovative solutions. I'm a lifelong learner, always seeking opportunities to improve my skills and knowledge in software development. I'm seeking Summer 2025 Software Developer/Engineer & Frontend Developer Internships. Feel free to reach out to me or simply just to say Hi!
 
 ```yaml
 let education = "Toronto Metropolitan University"
@@ -37,6 +37,8 @@ let moreAboutMe = {
   currently_learning: "🧠 I'm currently learning Bash, C, C++ in Introduction To Unix, C, and C++ class and learning Common Lisp, algorithms, and data structures in my Data Structures class. "
   fun_facts: "⚡️ I made a song once, I can speak three languages, and my parents almost named me "Bridge". "
 }
+
+const projects = "scroll down. check it out! :)"
 
 
 ```
