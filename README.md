@@ -20,30 +20,27 @@ Here are some ideas to get you started:
 I’m Vineet Panchal, an undergraduate computer science student at Toronto Metropolitan University. I'm interested in programming, and creating web applications and programs. I am currently seeking for 2024 spring internship opportunities. Feel free to reach out to me!
 
 ```yaml
-education: Toronto Metropolitan University
-major: Computer Science
-current_learning: ["Bash, C, C++, data structures, and Lisp"]
+let education = "Toronto Metropolitan University"
+const major = "Computer Science"
 
-technical_experience: 
-  [
-  ]
+let languages = [JavaScript, Java, Python, HTML/CSS, C++, C#, C, SQL, TypeScript, R]
+let tools_and_technologies = [Git/Github, Tailwind, Bootstrap, Node, Next, React, MySQL, Pygame, Supabase, OpenAI, Material UI]
+let certifications = [Responsive Web Design, JavaScript Algorithms and Data Structures, and Foundational C# With Microsoft]
+let current_learning = ["Bash, C, C++, data structures, and Lisp"]
+
+let experience = {
+  HeadstarterAI: "Software Engineer Fellow",
+  TheCircleLabs: "Frontend Developer Intern"
+}
+
+let moreAboutMe = {
+  currently_working: "👩‍💻 Building Next JS projects. "
+  currently_learning: "I'm currently learning Bash, C, C++ in Introduction To Unix, C, and C++ class and learning Common Lisp, algorithms, and data structures in my Data Structures class. "
+  fun_facts: "I made a song once, I can speak three languages, and my parents almost named me "Bridge". "
+}
+
 
 ```
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on a web app to check the weather in JavaScript.
-
-🧠 I'm currently learning the ARC Assembly language, game development in JavaScript, and the MERN stack.
-
-⚡️ A few fun facts about me: I've never been to a concert, I made a song once, and I love programming!
-
-## 🛠 Skills
-#### Languages: 
-JavaScript, Java, Python, HTML/CSS, C++, C#, SQL, Typescript, ARC Assembly, R
-#### Tools & Technologies: 
-Git/Github, Tailwind, Bootstrap, Node, React, MongoDB, MySQL, Pygame
-#### Certifications:
-Responsive Web Design, JavaScript Algorithms and Data Structures, and Foundational C# With Microsoft
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vineet-panchal.github.io/markII-website/index.html)
