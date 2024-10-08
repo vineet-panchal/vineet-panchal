@@ -26,7 +26,6 @@ const major = "Computer Science"
 let languages = [JavaScript, Java, Python, HTML/CSS, C++, C#, C, SQL, TypeScript, R]
 let tools_and_technologies = [Git/Github, Tailwind, Bootstrap, Node, Next, React, MySQL, Pygame, Supabase, OpenAI, Material UI]
 let certifications = [Responsive Web Design, JavaScript Algorithms and Data Structures, and Foundational C# With Microsoft]
-let current_learning = ["Bash, C, C++, data structures, and Lisp"]
 
 let experience = {
   HeadstarterAI: "Software Engineer Fellow",
