@@ -23,7 +23,7 @@ My name is Vineet Panchal. I am a second-year computer science student at Toront
 let education = "Toronto Metropolitan University"
 const major = "Computer Science"
 
-let languages = [JavaScript, Java, Python, HTML/CSS, C++, C#, C, SQL, TypeScript, R]
+let languages = [JavaScript, Java, Python, HTML/CSS, C++, C#, C, SQL, TypeScript, R, Lisp]
 let tools_and_technologies = [Git/Github, Tailwind, Bootstrap, Node, Next, React, MySQL, Pygame, Supabase, OpenAI, Material UI]
 let certifications = [Responsive Web Design, JavaScript Algorithms and Data Structures, and Foundational C# With Microsoft]
 
