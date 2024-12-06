@@ -35,8 +35,8 @@ let experience = {
 }
 
 let moreAboutMe = {
-  currently_working: "👩‍💻 Building Next JS projects. "
-  currently_learning: "🧠 I'm currently learning Bash, C, C++ in Introduction To Unix, C, and C++ class and learning Common Lisp, algorithms, and data structures in my Data Structures class. "
+  currently_working: "👩‍💻 I am consistently solving LeetCode problems and working on Next.js side projects.",
+  currently_learning: "🧠 I am currently refining my skills in Bash, C, and C++ while expanding my knowledge of algorithms and data structures.",
   fun_facts: "✨ I made a song once, I can speak three languages, and my parents almost named me "Bridge". "
 }
 
