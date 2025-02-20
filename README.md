@@ -31,7 +31,8 @@ let skills  = {
 
 let experience = {
   HeadstarterAI: "Software Engineer Fellow",
-  TheCircleLabs: "Frontend Developer Intern"
+  TheCircleLabs: "Frontend Developer Intern",
+  SummerOfBitcoin: "Software Developer",
 }
 
 let moreAboutMe = {
