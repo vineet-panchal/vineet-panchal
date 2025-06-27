@@ -25,7 +25,7 @@ const major = "Computer Science"
 
 let skills  = {
   languages: [JavaScript, Java, Python, HTML/CSS, C++, C#, C, SQL, TypeScript, R, Lisp]
-  tools_and_technologies: [Git/Github, Tailwind, Bootstrap, Node, Next, React, MySQL, Pygame, Supabase, OpenAI, Material UI]
+  tools_and_technologies: [Git/Github, Tailwind, Node, Next, React, MySQL, Supabase]
   certifications: [Responsive Web Design, JavaScript Algorithms & Data Structures, Foundational C# With Microsoft]
 }
 
@@ -33,6 +33,7 @@ let experience = {
   HeadstarterAI: "Software Engineer Fellow",
   TheCircleLabs: "Frontend Developer Intern",
   SummerOfBitcoin: "Software Developer",
+  CodvedaTechnologies: "Full Stack Developer Intern"
 }
 
 let moreAboutMe = {
