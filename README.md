@@ -33,7 +33,8 @@ let experience = {
   HeadstarterAI: "Software Engineer Fellow",
   TheCircleLabs: "Frontend Developer Intern",
   SummerOfBitcoin: "Software Developer",
-  CodvedaTechnologies: "Full Stack Developer Intern"
+  CodvedaTechnologies: "Full Stack Developer Intern",
+  Dayforce: "Software Developer Intern",
 }
 
 let moreAboutMe = {
