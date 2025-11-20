@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-My name is Vineet Panchal. I am a second-year computer science student at Toronto Metropolitan University. I am passionate about building innovative solutions. I'm a lifelong learner, always seeking opportunities to improve my skills and knowledge in software development. I'm seeking Summer 2025 Software Developer/Engineer & Frontend Developer Internships. Feel free to reach out to me or simply just to say Hi!
+My name is Vineet Panchal. I am a computer science student at Toronto Metropolitan University. I am passionate about building innovative solutions. I'm a lifelong learner, always seeking opportunities to improve my skills and knowledge in software development. I'm seeking Summer 2026 Software Developer/Engineer Internships. Feel free to reach out to me or simply just to say Hi!
 
 ```yaml
 let education = "Toronto Metropolitan University"
